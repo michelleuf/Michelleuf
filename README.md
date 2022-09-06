@@ -1,4 +1,5 @@
 ### Hi there 👋
+https://octodex.github.com/images/NUX_Octodex.gif
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelleuf&count_private=true&show_icons=true&theme=radical)
 
