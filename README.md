@@ -1,7 +1,7 @@
 ### Hi there 👋 Thanks for visiting my GitHub
 
 <div align="center">
-<img src="https://octodex.github.com/images/kimonotocat.png" width=25%>
+<img src="https://octodex.github.com/images/scubatocat.png" width=25%>
 </div>
 
 - 🎓 I’m a final year Computer Science Undergraduate at University of Colombo School of Computing.
