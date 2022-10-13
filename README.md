@@ -1,22 +1,22 @@
-### Hi there 👋
+### Hi there 👋 Thanks for visiting my GitHub
 
-<!-- ![alt text](https://octodex.github.com/images/yogitocat.png) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelleuf&count_private=true&show_icons=true&theme=radical)
+<div align="center">
+<img src="https://octodex.github.com/images/kimonotocat.png" width=25%>
+</div>
+
+- 🎓 I’m a final year Computer Science Undergraduate at University of Colombo School of Computing.
+- 📚 Working on learning more languages and tools
+- 🥋 Interested in Taekwondo
+
+- 📫 How to reach me: 👔 [linkedin][linkedin] | [dev][dev]
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelleuf&count_private=true&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[linkedin]: https://www.linkedin.com/in/michelle-fernando/
+[dev]: https://dev.to/michelleuf
 
-📫 How to reach me: https://www.linkedin.com/in/michelle-fernando/
-<!--
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
- 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=michelleuf&count_private=true&show_icons=true&theme=radical" width=40%/>  
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelleuf&count_private=true&theme=radical" width=200/>
+</div>
