@@ -6,7 +6,6 @@
 
 - 🎓 I’m a final year Computer Science Undergraduate at University of Colombo School of Computing.
 - 📚 Working on learning more languages and tools
-- 🥋 Interested in Taekwondo
 
 - 📫 How to reach me: 👔 [linkedin][linkedin] | [dev][dev]
 
