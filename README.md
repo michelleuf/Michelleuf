@@ -1,8 +1,10 @@
 ### Hi there 👋 Thanks for visiting my GitHub
-
+  
+&nbsp;
 <div align="center">
 <img src="https://octodex.github.com/images/scubatocat.png" width=25%>
 </div>
+&nbsp;
 
 - 🎓 I’m a final year Computer Science Undergraduate at University of Colombo School of Computing.
 - 📚 Working on learning more languages and tools
