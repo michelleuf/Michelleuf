@@ -9,7 +9,7 @@
 - 🎓 I’m a final year Computer Science Undergraduate at University of Colombo School of Computing.
 - 📚 Working on learning more languages and tools
 
-- 📫 How to reach me: 👔 [linkedin][linkedin] | [dev][dev]
+- 📫 How to reach me: 👔 [linkedin][linkedin] | 👨‍💻 [dev][dev]
 
 
 [linkedin]: https://www.linkedin.com/in/michelle-fernando/
