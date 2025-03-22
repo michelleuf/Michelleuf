@@ -6,7 +6,7 @@
 </div>
 &nbsp;
 
-- 🎓 I’m a final year Computer Science Undergraduate at University of Colombo School of Computing.
+- 🎓 Computer Science
 - 📚 Working on learning more languages and tools
 
 - 📫 How to reach me: 👔 [linkedin][linkedin] | 👩‍💻 [dev][dev]
